@@ -1,5 +1,3 @@
-# Criando o conteúdo do README.md
-readme_content = """
 # Gerador de Exercícios para o TEADI
 
 Este repositório contém um script Python que gera exercícios para o Teste de Atenção Difusa (TEADI). Os exercícios consistem em sequências de símbolos aleatórios, com instruções sobre quais símbolos devem ser marcados em cada exercício.
